@@ -55,6 +55,10 @@
                         <br />
                         <input type="submit" name="cadastrar" value="Cadastrar" class="btn"/>
                         <input type="reset" class="btn" value="Limpar"/>
+                        
+                        <br />
+                        <input type="submit" name="cadastrar" value="Cadastrar" class="btn"/>
+                        <input type="reset" class="btn" value="Limpar"/>
                     </fieldset>
         </form>
 
